@@ -1,0 +1,6 @@
+*.pth
+*.pkl
+*.pyc
+*.mp4
+*.mkv
+*.engine
